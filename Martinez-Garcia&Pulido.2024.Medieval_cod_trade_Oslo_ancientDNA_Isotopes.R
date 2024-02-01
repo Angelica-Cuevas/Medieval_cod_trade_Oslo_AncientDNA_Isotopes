@@ -14,10 +14,6 @@
 
 #===========================================================================================================================================================================####
 
-setwd("/Users/apulido1/Documents/ANCIENT.DNA/Oslo.trade_paper/Manuscript_version_25.01.24/Input_files")
-setwd("/Users/apulido1/Documents/ANCIENT.DNA/Oslo.trade_paper/Data_Analysis")
-setwd("/Users/angelimc/Documents/Angelica/ancient.DNA/Oslo.trade_paper/Data_Analysis")
-
 rm(list = ls()) #clears environment
 
 working.directory<-setwd("/path/to/your/working/directory/files.and.scripts")
