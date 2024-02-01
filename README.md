@@ -1,7 +1,7 @@
 # Medieval_cod_trade_Oslo_AncientDNA_Isotopes
 This repository contains the data analysis performed for the publication: *Tracing 600 years of long-distance Atlantic cod trade in medieval and post-medieval Oslo using stable isotopes and ancient DNA* by Martinez-Garcia and Pulido et al., 2024
 
-Find our study in [biorxiv here] (https://www.biorxiv.org/content/10.1101/2024.01.25.577044v1)
+Find our study in [biorxiv here](https://www.biorxiv.org/content/10.1101/2024.01.25.577044v1)
 
 The repository contanins the following files:
 
