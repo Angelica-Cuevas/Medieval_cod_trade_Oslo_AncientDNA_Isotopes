@@ -17,7 +17,7 @@ We have analysed 106 Atlantic cod bone samples collected from two archaeological
   1. MASTER_isotopes.genotype.txt: Results after measuring stable carbon (δ13C), nitrogen (δ15N), non-exchangeable hydrogen (δ2H, and sulphur (δ34S) on purified bone collagen. 
   2. Paleomix_summary.txt : this file contains the results produced by PALEOMIX v1.2.13, which sumarize the Clonality and Endogenous DNA fraction of the sequenced reads. Yo can also find the locality of each sample in this table.
 
-To determine the biological origin of Atlantic cod specimens we the BAMscorer pipeline which generate probability assignments on the major chromosomal inversions in Atlantic cod (LG1, LG2, LG7 and LG12). The results and corresponding probailities are found respectively in the following files:
+To determine the biological origin of Atlantic cod specimens we the [BAMscorer pipeline](https://github.com/laneatmore/BAMscorer) which generate probability assignments on the major chromosomal inversions in Atlantic cod (LG1, LG2, LG7 and LG12). The results and corresponding probailities are found respectively in the following files:
 
   3. InversionCaller_LG01.txt
   4. InversionCaller_LG02.txt
